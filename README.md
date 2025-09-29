@@ -29,7 +29,7 @@ e: para emojis
 term
 : definition
 
-hola hola
+hola hola aleee-
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
