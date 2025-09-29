@@ -1,43 +1,70 @@
-# Ejem2_
+# Ejem02_2526_Restauracion
 
-**Este texto estará en negrita**
-*Este texto estará en cursiva*[^1]
->hola
-1. Hola que tal
-2. Hola
-3. hi
--hola
--hola
-´String variable`
+# H1
+## H2
+### H3
+**Este proyecto es simplemente para explicar markdown y ver la evolución de los proyectos.** Esto no está en negrita
+*Este texto estará en cursiva* 
+> Lo interesante de markdown es lo poco que tenemos que memorizar de palabras reservadas y sin embargo es prácticamente igual que HTML
+
+
+Lista de pasos a seguir en un proyecto [^1]
+1. Crearlo
+2. Desarrollarlo
+3. Comentarlo
+
+Puntos que no deben olvidarse.
+- Desarrollar código conjunto
+- Reuniones diarias
+
+`String variable="Esto es una cadena de texto"`
 ---
-[GF](https://www.gregoriofer.com)
-Imagen corporativa ![LogoGF](https://gregoriofer.com/logo.jpg)
-| Syntax | Description |
+Enlace a web del centro desarrolador:  	[GF](https://www.gregoriofer.com)
+Imagen corporativa 	![LogoGF](https://gregoriofer.com/logo.jpg)
+
+Trabajadores del proyecto:
+| Identificador | Nombre alumno |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 1 | Victor |
+| 2 | Jorge | 
+| 3 | Laura | 
 
-hola
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+
 Git
-: Control de versiones utilizados
+: Control de versiones utilizado
+: Control de versiones utilizado2
+: Control de versiones utilizado3
+
 IDE
-: eclipse para desarrollar proyectos
+: Eclipse para desarrollar proyectos
 
-e: para emojis
-🥇
-
-term
-: definition
-
-hola hola aleee-
+Tareas a realizar
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
 
 
-I need to highlight these ==very important words==.
+
+I need to highlight these <mark>very important words</mark>
+
+<dl>
+  <dt><mark>Término 1</mark></dt>
+  <dd>Definición del término 1.</dd>
+  
+  <dt><mark>Término 2</mark></dt>
+  <dd>Definición del término 2.</dd>
+</dl>
+
+Modificación realizada en local.
 
 
-
-
-[^1]: This is the footnote.
+[^1]: este es el pie de página. 
+  
